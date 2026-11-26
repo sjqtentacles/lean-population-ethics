@@ -1,0 +1,91 @@
+arrhenius2011:
+  type: chapter
+  title: The Impossibility of a Satisfactory Population Ethics
+  author: Arrhenius, Gustaf
+  date: 2011
+  page-range: 1-26
+  parent:
+    type: book
+    title: Descriptive and Normative Approaches to Human Behavior
+    editor: ["Dzhafarov, Ehtibar N.", "Perry, Lacey"]
+    publisher: World Scientific
+    location: Singapore
+
+arrhenius2009:
+  type: chapter
+  title: One More Axiological Impossibility Theorem
+  author: Arrhenius, Gustaf
+  date: 2009
+  parent:
+    type: book
+    title: "Logic, Ethics, and All That Jazz: Essays in Honour of Jordan Howard Sobel"
+    editor: ["Johansson, Lars-Göran", "Österberg, Jan", "Sliwinski, Rysiek"]
+    publisher: Uppsala University
+    location: Uppsala
+
+thomas2016:
+  type: manuscript
+  title: Reconstructing Arrhenius's Impossibility Theorems
+  author: Thomas, Teruji
+  date: 2016
+  organization: University of Oxford
+  url: https://users.ox.ac.uk/~mert2060/webfiles/Reconstructing-Arrhenius-for-web.pdf
+
+thomas2018:
+  type: article
+  title: Some Possibilities in Population Axiology
+  author: Thomas, Teruji
+  date: 2018
+  page-range: 807-832
+  parent:
+    type: periodical
+    title: Mind
+    volume: 127
+    issue: 507
+
+thornley2021:
+  type: article
+  title: The Impossibility of a Satisfactory Population Prospect Axiology (Independently of Finite Fine-Grainedness)
+  author: Thornley, Elliott
+  date: 2021
+  page-range: 3671-3695
+  parent:
+    type: periodical
+    title: Philosophical Studies
+    volume: 178
+
+carlson2022:
+  type: chapter
+  title: On Some Impossibility Theorems in Population Ethics
+  author: Carlson, Erik
+  date: 2022
+  page-range: 204-225
+  parent:
+    type: book
+    title: The Oxford Handbook of Population Ethics
+    editor: ["Arrhenius, Gustaf", "Bykvist, Krister", "Campbell, Tim", "Finneron-Burns, Elizabeth"]
+    publisher: Oxford University Press
+    location: Oxford
+
+lean4:
+  type: chapter
+  title: The Lean 4 Theorem Prover and Programming Language
+  author: ["de Moura, Leonardo", "Ullrich, Sebastian"]
+  date: 2021
+  page-range: 625-635
+  parent:
+    type: proceedings
+    title: Automated Deduction – CADE 28
+    publisher: Springer
+
+mathlib:
+  type: chapter
+  title: The Lean Mathematical Library
+  author:
+    name: The mathlib Community
+  date: 2020
+  page-range: 367-381
+  parent:
+    type: proceedings
+    title: Proceedings of the 9th ACM SIGPLAN International Conference on Certified Programs and Proofs
+    publisher: ACM
