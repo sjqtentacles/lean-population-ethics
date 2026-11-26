@@ -51,6 +51,15 @@ still conflict on a larger one.
 `paper/sixth-theorem.typ` is a draft note on the sixth-theorem result. Build it with
 `typst compile paper/sixth-theorem.typ`.
 
+## Citation
+
+Sarkisyan, A. (2026). *Arrhenius's Sixth Impossibility Theorem Is False as Stated:
+A Machine-Checked Counterexample* (Version 1.0). Zenodo.
+https://doi.org/10.5281/zenodo.24549569
+
+The DOI [10.5281/zenodo.24549568](https://doi.org/10.5281/zenodo.24549568) always
+resolves to the latest version.
+
 ## Licence
 
 Code is under the MIT licence (`LICENSE`). The paper in `paper/` is under CC BY 4.0
